@@ -13,22 +13,25 @@ include::../config/_feedback.adoc[]
 | Empfohlene Mindestdauer (min)
 
 
-| 1. Thema mit Einleitung
-| 180
-
-| 2. Thema über xz
-| 150
-
-| 3. Thema mit viel Theorie
+| Motivation
 | 120
 
-| 4. Thema mit xy und Beispiel
-| 180
+| Modularisierung
+| 240
 
-| 5. Thema mit abc und d
-| 210
+| Integration
+| 150
 
-| 6. Thema mit Abschlussbeispiel
+| Betrieb, Überwachung und Fehleranalyse
+| 150
+
+| Installation und Roll Out
+| 150
+
+| Case Study
+| 150
+
+| Ausblick
 | 120
 
 |
@@ -55,22 +58,25 @@ image:zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 | Recommended minimum duration (minutes)
 
 
-| 1. Introduction
-| 180
-
-| 2. xz
-| 150
-
-| 3. Lots of theory
+| Introduction
 | 120
 
-| 4. xy and example
-| 180
+| Modularization
+| 240
 
-| 5. abc und d
-| 210
+| Integration
+| 150
 
-| 6. Final example
+| Operations, Monitoring, and Alerting
+| 150
+
+| Installation and Rollout
+| 150
+
+| Case Study
+| 150
+
+| Outlook
 | 120
 
 |
