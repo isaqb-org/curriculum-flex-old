@@ -4,13 +4,13 @@
 
 // tag::DE[]
 
-== Grundlegendes
+== Grundlegendes zum Modul {curriculum-short}
 
 // end::DE[]
 
 // tag::EN[]
 
-== Basics
+== Basics of the Module {curriculum-short}
 
 // end::EN[]
 

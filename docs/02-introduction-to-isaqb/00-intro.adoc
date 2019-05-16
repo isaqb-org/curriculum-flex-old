@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Einführung in das iSAQB-Zertifizierungsprogramm
+== iSAQB FLEX Abschnitt: MOTIVATION
 // end::DE[]
 
 // tag::EN[]
-== Introduction to the iSAQB certification program
+== iSAQB FLEX section: MOTIVATION
 // end::EN[]
 
 include::01-intro-duration-terms.adoc[{include_configuration}]
