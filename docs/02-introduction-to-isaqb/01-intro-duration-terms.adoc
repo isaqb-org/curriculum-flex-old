@@ -5,24 +5,45 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 |===
-| Unterrichtszeit: 15 Min (optional) | Übungszeit: keine
+| Unterrichtszeit: 120 Min (optional) | Übungszeit: keine
 |===
 
-Dieser Abschnitt ist nicht prüfungsrelevant. Falls Teilnehmer bereits CPSA-F zertifiziert sind, kann dieser Abschnitt entfallen.
-
 === Begriffe und Konzepte
-iSAQB, Advanced-Level-Zertifizierung, Voraussetzungen
+- Verfügbarkeit
+- Zuverlässigkeit
+- Time-to-Market
+- Flexibilität
+- Vorhersagbarkeit
+- Reproduzierbarkeit
+- Homogenisierung der Stages
+- Internet/Web-Scale
+- verteilte Systeme
+- Parallelisierbarkeit der Feature-Entwicklung
+- Evolution der Architektur (Build for Replacement)
+- Heterogenität
+- Automatisierbarkeit
+
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: 15 min (optional) | Exercises: none
+| Lesson duration: 120 min (optional) | Exercises: none
 |===
 
-This section is not examinable. In case participants are already certified according to CPSA-F, this section may be omitted.
-
 === Terms and concepts
-iSAQB, Advanced Level certification, prerequisites
+- Availability
+- Resilience
+- Time-to-Market
+- Flexibility
+- forecastability
+- reproducibility
+- homogenisation of stages
+- internet/web scale
+- distributed systems
+- paralellizability of feature development
+- evolution of architecture (build for replacement)
+- heterogenity
+- automatability
 // end::EN[]
 
 
