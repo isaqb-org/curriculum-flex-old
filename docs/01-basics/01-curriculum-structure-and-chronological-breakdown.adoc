@@ -38,7 +38,7 @@ include::../config/_feedback.adoc[]
 |
 
 | Summe
-| 960 (16h)
+| 1080 (18h)
 
 |===
 
@@ -83,7 +83,7 @@ image:zeitaufteilung.png[pdfwidth=75%, role="text-center"]
 |
 
 | Sum
-| 960 (16h)
+| 1080 (18h)
 
 |===
 
