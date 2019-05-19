@@ -5,25 +5,46 @@ include::../config/_feedback.adoc[]
 
 // tag::DE[]
 |===
-| Dauer: XXX Min. | Übungszeit: XXX Min.
+| Unterrichtszeit: 120 Min (optional) | Übungszeit: keine
 |===
 
 === Begriffe und Konzepte
-* Begriff 1
-* Begriff 2
-* Begriff 3
+- Verfügbarkeit
+- Zuverlässigkeit
+- Time-to-Market
+- Flexibilität
+- Vorhersagbarkeit
+- Reproduzierbarkeit
+- Homogenisierung der Stages
+- Internet/Web-Scale
+- verteilte Systeme
+- Parallelisierbarkeit der Feature-Entwicklung
+- Evolution der Architektur (Build for Replacement)
+- Heterogenität
+- Automatisierbarkeit
 
 // end::DE[]
 
 // tag::EN[]
 |===
-| Lesson duration: XXX min | Exercises: XXX min
+| Lesson duration: 120 min (optional) | Exercises: none
 |===
 
 === Terms and concepts
-* Term 1
-* Term 2
-* Term 3
+- Availability
+- Resilience
+- Time-to-Market
+- Flexibility
+- forecastability
+- reproducibility
+- homogenisation of stages
+- internet/web scale
+- distributed systems
+- paralellizability of feature development
+- evolution of architecture (build for replacement)
+- heterogenity
+- automatability
+
 // end::EN[]
 
 

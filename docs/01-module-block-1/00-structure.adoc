@@ -3,11 +3,11 @@
 // ====================================================
 
 // tag::DE[]
-== Lerneinheit 1
+== MOTIVATION
 // end::DE[]
 
 // tag::EN[]
-== Lesson 1
+== MOTIVATION
 // end::EN[]
 
 include::01-duration-terms.adoc[{include_configuration}]
