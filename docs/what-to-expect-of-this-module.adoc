@@ -15,8 +15,9 @@ der Struktur unterhalb von "00-preamble/introduction" eingeordnet wird.
 // tag::DE[]
 === Was vermittelt das Modul "{curriculum-short}"?
 
-Das Modul präsentiert den Teilnehmerinnen und Teilnehmern {curriculum-name} als …
-Am Ende des Moduls kennen die Teilnehmerinnen und Teilnehmer … und können …
+Wie entwirft man besonders flexible Architekturen?
+Der Lehrplan umfasst moderne Architekturansätze wie Microservices, Continuous Delivery und Self-contained Systems sowie aktuelle Grundsätze für den Betrieb solcher Lösungen.
+
 // end::DE[]
 
 // tag::EN[]

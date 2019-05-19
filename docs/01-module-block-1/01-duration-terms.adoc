@@ -9,10 +9,10 @@ include::../config/_feedback.adoc[]
 |===
 
 === Begriffe und Konzepte
-- Verfügbarkeit
-- Zuverlässigkeit
+- Verfügbarkeit
+- Zuverlässigkeit
 - Time-to-Market
-- Flexibilität
+- Flexibilität
 - Vorhersagbarkeit
 - Reproduzierbarkeit
 - Homogenisierung der Stages
@@ -20,7 +20,7 @@ include::../config/_feedback.adoc[]
 - verteilte Systeme
 - Parallelisierbarkeit der Feature-Entwicklung
 - Evolution der Architektur (Build for Replacement)
-- Heterogenität
+- Heterogenität
 - Automatisierbarkeit
 
 // end::DE[]
@@ -35,15 +35,15 @@ include::../config/_feedback.adoc[]
 - Resilience
 - Time-to-Market
 - Flexibility
-- forecastability
+- predictability
 - reproducibility
-- homogenisation of stages
+- homogenization of stages
 - internet/web scale
 - distributed systems
-- paralellizability of feature development
+- parallelizability of feature development
 - evolution of architecture (build for replacement)
 - heterogenity
-- automatability
+- automation capability
 
 // end::EN[]
 
